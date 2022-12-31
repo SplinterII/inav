@@ -113,7 +113,7 @@ While connected to the CLI, all Logical Switches are temporarily disabled (5.1.0
 | `smix` | Custom servo mixer |
 | `status` | Show status |
 | `tasks` | Show task stats |
-| `temp_sensor` | List or configure temperature sensor(s). See [temperature sensors documentation](Temperature sensors.md) for more information. |
+| `temp_sensor` | List or configure temperature sensor(s). See [temperature sensors documentation](Temperature-sensors.md) for more information. |
 | `version` | Show version |
 | `wp` | List or configure waypoints. See the [navigation documentation](Navigation.md#cli-command-wp-to-manage-waypoints). |
 
